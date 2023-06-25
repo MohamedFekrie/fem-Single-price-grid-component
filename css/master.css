@@ -40,7 +40,7 @@ p {
 }
 @media only screen and (min-width: 550px) {
   .box {
-    width: 600px;
+    width: 700px;
   }
 }
 .box__header, .box__bottom > div {
